@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jinhyun So"
-  avatar           : "jinhyunso.jpg"
+  avatar           : "\images\jinhyunso.jpg"
   bio              : "PhD candidate in electrical and computer engineering department at USC working with Professor Salman Avestimehr. I am interested in Federated Learning, Privacy-preserving machine learning, large-scale distributed computing, and information theory."
   location         : "jinhyuns @ usc.edu"
   employer         : "University of Southern California"
@@ -97,7 +97,7 @@ author:
   foursquare       :
   github           : "jinhyun-so"
   google_plus      :
-  keybase          : "jinhyun-so"
+  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
@@ -120,7 +120,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - keybase.txt
+  # - keybase.txt
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
