@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinhyun So"
 title_separator          : "-"
 name                     : &name "Jinhyun So"
-description              : &description "I am a PhD candidate in electrical and computer engineering department at USC working with Professor Salman Avestimehr. I am interested in Federated Learning, Privacy-preserving machine learning, large-scale distributed computing, and information theory."
+description              : &description "PhD candidate @ ECE, USC"
 url                      : https://jinhyun-so.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinhyun-so/jinhyun-so.github.io"
