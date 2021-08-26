@@ -16,10 +16,14 @@ author_profile: true
 
 
 
+
+
 ### Research Assistant @ USC, Los Angeles, CA, USA
 - ##### August 2017 - Present
 
 - ##### Federated Learning, Privacy-preserving Machine Learning
+
+
 
 
 
@@ -32,6 +36,8 @@ author_profile: true
 
 
 
+
+
 ### Research Assistant @ KAIST, Daejeon, South Korea
 - ##### Feb 2011 - Dec 2012  
 
@@ -41,13 +47,11 @@ author_profile: true
 
 
 
-
-
 ### Professional Services
 
-- ##### **Program Committee**, International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2021 (FL-ICML 2021): (http://federated-learning.org/fl-icml-2021/) 
+- ##### **Program Committee**, International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction (FL-ICML 2021) (Webpage: [here](http://federated-learning.org/fl-icml-2021/))
 
-- ##### **Program Committee**, FL-AAAI Workshop 2022: (webpage:TBD)
+- ##### **Program Committee**, FL-AAAI Workshop 2022 (webpage:TBD)
 
 - ##### **Reviewer**, IEEE Journal of Selected Areas in Communications (JSAC) – 2021, 2022
 
