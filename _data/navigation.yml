@@ -1,13 +1,7 @@
 # main links links
-main:
-  - title: "Teaching"
-    url: /teaching/    
-    
+main:  
   - title: "CV"
-    url: https://drive.google.com/file/d/1QaT7_kRcyo0M1aJdTwpL1eJ_Xk1gkZku/view
-    
- # - title: "Resume"
- #   url: https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing
+    url: https://drive.google.com/file/d/1vSGS_XAUNWgwu9r70B_DSTgIZTRNleo3/view
     
   - title: "Publications"
     url: /publications/ 
