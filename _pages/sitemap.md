@@ -2,7 +2,7 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
@@ -17,3 +17,4 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% capture written_label %}'None'{% endcapture %}
 
 ## [Keybase Proof](https://rasikabh.github.io/keybase.txt)
+

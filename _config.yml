@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinhyun So"
   avatar           : "jinhyunso.jpg"
-  bio              : "PhD candidate in electrical and computer engineering department at USC working with Professor Salman Avestimehr. I am interested in Federated Learning, Privacy-preserving machine learning, large-scale distributed computing, and information theory."
+  bio              : "PhD candidate @ ECE, USC"
   location         : "jinhyuns @ usc.edu"
   employer         : "University of Southern California"
   pubmed           :
@@ -99,7 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jinhyun-so-646593132/"
   orcid            :

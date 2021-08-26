@@ -11,11 +11,37 @@ author_profile: true
 
 {% include base_path %}
 
-Nikita Nangia\*, Clara Vania\*, <b>Rasika Bhalerao\*</b>
-, Samuel R. Bowman, “[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154),” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2020)**. **[NYU Press: Researchers Spot Origins of Stereotyping in AI Language Technologies](https://www.nyu.edu/about/news-publications/news/2020/october/researchers-spot-origins-of-stereotyping-in-ai-language-technolo.html)**
 
-Maxwell Aliapoulios, Cameron Ballard, **Rasika Bhalerao**, Tobias Lauinger, Damon McCoy, "[Swiped: Analyzing Ground-truth Data of a Marketplace for Stolen Debit and Credit Cards](https://www.usenix.org/conference/usenixsecurity21/presentation/aliapoulios)," Proceedings of the 2021 USENIX Security Symposium **(Usenix 2021)**. **[NYU Press: Tandon team shines light on roiling market for stolen debit and credit cards](https://engineering.nyu.edu/news/tandon-team-shines-light-roiling-market-stolen-debit-and-credit-cards)**. **[Krebs on Security: Here’s Why Credit Card Fraud is Still a Thing](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/)**
 
-**Rasika Bhalerao**, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz and Damon McCoy, “[Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](http://damonmccoy.com/papers/ecrime2019.pdf),” 2019 APWG Symposium on Electronic Crime Research **(eCrime 2019)**, Pittsburgh, PA, USA, 2019, pp. 1-16, doi: 10.1109/eCrime47957.2019.9037582. **Honorable mention for best paper award**
+## Journal Papers
 
-Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea L. Bertozzi, Wenzhi Liao, Stanley Osher, “[Pre-processing and classification of hyperspectral imagery via selective inpainting](https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf),” 2017 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2017)**, New Orleans, LA, 2017, pp. 6195-6199, doi: 10.1109/ICASSP.2017.7953347.
+1.  **Jinhyun So**, Basak Guler, and Salman Avestimehr, "Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning," IEEE Journal on Selected Areas in Information Theory 2.1 (2021): 479-489. 
+2.  **Jinhyun So**, Basak Guler, Salman Avestimehr, " CodedPivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning," IEEE Journal on Selected Areas in Information Theory 2.1 (2021): 441-451.
+3. **Jinhyun So**, Basak Guler, and Salman Avestimehr, “Byzantine-Resilient Secure Federated Learning,” IEEE Journal on Selected Areas in Communications (JSAC) 2020.
+
+
+
+## Conference Papers
+
+1. Ramy E. Ali, **Jinhyun So**, and Salman Avestimehr. "On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks." NeurIPS 2020 PPML Workshop, available online at arXiv:2011.05530.
+2. Chaoyang He, Songze Li, **Jinhyun So**, Mi Zhang, Hongyi Wang, Xiaoyang Wang, Praneeth Vepakomma et al. "Fedml: A research library and benchmark for federated machine learning." NeurIPS 2020 SpicyFL Workshop **(Bast Paper Award)**, available online at arXiv:2007.13518.
+3. **Jinhyun So**, Basak Guler, and Salman Avestimehr, “A Scalable Approach for Privacy-Preserving Collaborative Machine Learning,” Advanced in Neural Information Processing Systems (NeurIPS), vol. 33, 2020.
+4. **Jinhyun So**, Basak Guler, and Salman Avestimehr, "Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning," ICML Workshop on Federated Learning for User Privacy and Data Confidentiality **(Long Presentation)**, 2020.
+5. **Jinhyun So**, Basak Guler, Salman Avestimehr, and Payman Mohassel, "CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning," ICML *2019* CodML workshop (Poster), 2019.
+6. **Jinhyun So**, Sungho Choi, Seung Hyeok Ahn, Eui-Rim Jeong, and Yong H. Lee, “Digital Predistortion Based on Envelope Feedback,” IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP), Tokyo, 2012 Mar. 
+7. Sungho Choi, Eui-Rim Jeong, Byonghwan Lee, **Jinhyun So**, and Yong H. Lee, "New Predistortion Technique for Wideband Power Amplifiers of Dual-Band Transmission Systems," *The 21st Joint Conference on Communications & Information 2011*, Busan, Korea, May, 2011.
+
+
+
+## Pre-prints
+
+1. **J So**, RE Ali, B Guler, J Jiao, AS Avestimehr, “Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning,” arXiv preprint arXiv:2106.03328.
+
+
+
+## Patents
+
+1. **Jinhyun So**, Seokjoong Heo, Soobok Yeo, Sejin Kong, Jaehak Lee, and Mingu Kim, “Communication device and control method thereof,” *Pending*, U.S. Patent (US9712345), and Korea Patent (No.2015-0151308).
+2. Seokjoong Heo, **Jinhyun So**, Soobok Yeo, and Mingu Kim, “Receiver apparatus and reception method in wireless communication system,” *Grant*, U.S. Patent (US9479360), Korea Patent(10-0118975).
+3. **Jinhyun So**, Sungho Choi, Seung Hyeok Ahn, Eui-Rim Jeong, and Yong H. Lee, “Low-cost digital predistortion apparatus and method using envelope detection feedback,” *Grant*, U.S. Patent (US9148093), Korea Patent (10-1389880).
+4. Sungho Choi, Seung Hyeok Ahn, Eui-Rim Jeong, **Jinhyun So**, and Yong H. Lee, "Method and Appratus for pre-compensation of self-local oscillator coupling effect in transmitters,” *Grant,* Korea Patent (10-1265241)
