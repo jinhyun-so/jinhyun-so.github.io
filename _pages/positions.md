@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-#### PhD Research Intern @ Microsoft Research, Seattle, WA, USA
+### PhD Research Intern @ Microsoft Research, Seattle, WA, USA
 
 - June 2021 - August 2021
 - Distributed AI training in Space
@@ -17,7 +17,8 @@ author_profile: true
 
 
 
-#### Research Assistant @ USC, Los Angeles, CA, USA
+### Research Assistant @ USC, Los Angeles, CA, USA
+
 - August 2017 - Present
 - Federated Learning, Privacy-preserving Machine Learning
 
@@ -25,7 +26,7 @@ author_profile: true
 
 
 
-#### System Engineer @ Samsung Electronics Co., Hwaseong, South Korea
+### System Engineer @ Samsung Electronics Co., Hwaseong, South Korea
 - Jan 2013 - June 2017
 - Developed and implemented algorithms for cellular modem chips (HSDPA, LTE-A)
 - Researched algorithms for 5G cellular system 
@@ -34,7 +35,7 @@ author_profile: true
 
 
 
-#### Research Assistant @ KAIST, Daejeon, South Korea
+### Research Assistant @ KAIST, Daejeon, South Korea
 - Feb 2011 - Dec 2012  
 - Digital pre-distortion, Beam division multiple access (BDMA)
 
@@ -44,11 +45,11 @@ author_profile: true
 
 ### Professional Services
 
+- **Program Committee**, FL-AAAI Workshop 2022 (Webpage: TBD)
 - **Program Committee**, International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction (FL-ICML 2021) (Webpage: [here](http://federated-learning.org/fl-icml-2021/))
-- **Program Committee**, FL-AAAI Workshop 2022 (webpage:TBD)
 - **Reviewer**, IEEE Journal of Selected Areas in Communications (JSAC) – 2021, 2022
-- **Reviewer**, IEEE Communications Magazine - 2020
 - **Reviewer**, IEEE International Symposium on Information Theory (ISIT) – 2021 
-- **Reviewer**, IEEE Transactions on Information Forensics and Security – 2020 
 - **Reviewer**, International Conference on Machine Learning (ICML) – 2021
+- **Reviewer**, IEEE Transactions on Information Forensics and Security (TIFS) – 2020 
+- **Reviewer**, IEEE Communications Magazine - 2020
 
