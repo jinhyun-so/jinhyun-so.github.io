@@ -1,7 +1,8 @@
 # main links links
 main:  
   - title: "CV"
-    url: https://drive.google.com/file/d/1vSGS_XAUNWgwu9r70B_DSTgIZTRNleo3/view
+    # url: https://drive.google.com/file/d/1vSGS_XAUNWgwu9r70B_DSTgIZTRNleo3/view
+    url: https://drive.google.com/file/d/1VuMs1N38GM1DTaIgUI1kzqrTBQNZQSZh/view?usp=sharing
     
   - title: "Publications"
     url: /publications/ 
