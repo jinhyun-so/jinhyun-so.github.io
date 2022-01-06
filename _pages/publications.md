@@ -13,6 +13,10 @@ author_profile: true
 
 
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=taFevmQAAAAJ&hl=en&authuser=4). 
+
+
+
 ## Journal Papers
 
 1.  **Jinhyun So**, Basak Guler, and Salman Avestimehr, "Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning," IEEE Journal on Selected Areas in Information Theory 2.1 (2021): 479-489. 
@@ -23,19 +27,20 @@ author_profile: true
 
 ## Conference Papers
 
-1. Ramy E. Ali, **Jinhyun So**, and Salman Avestimehr. "On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks." NeurIPS 2020 PPML Workshop, available online at arXiv:2011.05530.
-2. Chaoyang He, Songze Li, **Jinhyun So**, Mi Zhang, Hongyi Wang, Xiaoyang Wang, Praneeth Vepakomma et al. "Fedml: A research library and benchmark for federated machine learning." NeurIPS 2020 SpicyFL Workshop **(Bast Paper Award)**, available online at arXiv:2007.13518.
-3. **Jinhyun So**, Basak Guler, and Salman Avestimehr, “A Scalable Approach for Privacy-Preserving Collaborative Machine Learning,” Advanced in Neural Information Processing Systems (NeurIPS), vol. 33, 2020.
-4. **Jinhyun So**, Basak Guler, and Salman Avestimehr, "Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning," ICML Workshop on Federated Learning for User Privacy and Data Confidentiality **(Long Presentation)**, 2020.
-5. **Jinhyun So**, Basak Guler, Salman Avestimehr, and Payman Mohassel, "CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning," ICML *2019* CodML workshop (Poster), 2019.
-6. **Jinhyun So**, Sungho Choi, Seung Hyeok Ahn, Eui-Rim Jeong, and Yong H. Lee, “Digital Predistortion Based on Envelope Feedback,” IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP), Tokyo, 2012 Mar. 
-7. Sungho Choi, Eui-Rim Jeong, Byonghwan Lee, **Jinhyun So**, and Yong H. Lee, "New Predistortion Technique for Wideband Power Amplifiers of Dual-Band Transmission Systems," *The 21st Joint Conference on Communications & Information 2011*, Busan, Korea, May, 2011.
+1. **J. So**, R. E. Ali, B. Guler, J Jiao, A.S. Avestimehr, “Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning,” in *International Workshop on Trustable, Verifiable and Auditable Federated Learning in Conjunction with AAAI* (FL-AAAI-22), Mar. 2022.
+2. **J. So**, R. E. Ali, B. Guler, A.S. Avestimehr, "Secure Aggregation for Buffered Asynchronous Federated Learning," in *Workshop on New Frontiers in Federated Learning in Conjunction with NeurIPS*, Dec. 2021.
+3. C Yang, **J. So**, C. He, S. Li, Q. Yu, and S. Avestimehr, "LightSecAgg: Rethinking Secure Aggregation in Federated Learning,'' in *IEEE Information Theory Workshop (ITW)*, Dec. 2021.
+4. Ramy E. Ali, **Jinhyun So**, and Salman Avestimehr. "On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks," *in Workshop on Privacy-preserving Machine Learning in Conjunction with NeurIPS*, Dec. 2021. available online at arXiv:2011.05530.
+5. Chaoyang He, Songze Li, **Jinhyun So**, Mi Zhang, Hongyi Wang, Xiaoyang Wang, Praneeth Vepakomma et al. "Fedml: A research library and benchmark for federated machine learning." in NeurIPS 2020 SpicyFL Workshop **(Bast Paper Award)**, available online at arXiv:2007.13518.
+6. **Jinhyun So**, Basak Guler, and Salman Avestimehr, “A Scalable Approach for Privacy-Preserving Collaborative Machine Learning,” in *the 34th Conference on Neural Information Processing Systems (NeurIPS)*, Dec. 2020.
+7. **Jinhyun So**, Basak Guler, and Salman Avestimehr, "Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning," in *ICML Workshop on Federated Learning for User Privacy and Data Confidentiality* **(Long Presentation)**, Jul. 2020.
+8. **Jinhyun So**, Basak Guler, Salman Avestimehr, and Payman Mohassel, "CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning," in *International Workshop on Coding Theory For Large-scale Machine Learning (CodML) in Conjunction with ICML*, Jun. 2019.
+9. **Jinhyun So**, Sungho Choi, Seung Hyeok Ahn, Eui-Rim Jeong, and Yong H. Lee, “Digital Predistortion Based on Envelope Feedback,” in *IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)*, Mar. 2012. 
+10. Sungho Choi, Eui-Rim Jeong, Byonghwan Lee, **Jinhyun So**, and Yong H. Lee, "New Predistortion Technique for Wideband Power Amplifiers of Dual-Band Transmission Systems," *The 21st Joint Conference on Communications & Information 2011*, May. 2011.
 
 
 
 ## Pre-prints
-
-1. **J So**, RE Ali, B Guler, J Jiao, AS Avestimehr, “Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning,” arXiv preprint arXiv:2106.03328.
 
 
 
