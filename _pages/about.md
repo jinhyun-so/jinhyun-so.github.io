@@ -14,7 +14,8 @@ I am a PhD candidate in electrical and computer engineering at USC under the sup
 
 ## Recent News
 
-- (2021-10) Our paper "[Secure Aggregation for Buffered Asynchronous Federated Learning](https://arxiv.org/abs/2110.02177)" is accepted to "[NeurIPS-2021 Workshop on New Frontiers in Federated Learning](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html)"
+- (2022-01) Our paper "[Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)" is accepted to [International Workshop on Trustable, Verifiable and Auditable Federated Learning in Conjunction with AAAI 2022 (FL-AAAI-22)](https://federated-learning.org/fl-aaai-2022/).
+- (2021-10) Our paper "[Secure Aggregation for Buffered Asynchronous Federated Learning](https://arxiv.org/abs/2110.02177)" is accepted to "[NeurIPS-2021 Workshop on New Frontiers in Federated Learning](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html)".
 - (2021-09) Our paper "[LightSecAgg: Rethinking Secure Aggregation in Federated Learning](https://arxiv.org/pdf/2109.14236.pdf)" is accepted to [2021 IEEE Information Theory Workshop (ITW 2021)](http://itw2021.org/?page_id=544).
 - (2021-06) I started a PhD internship at **Microsoft Research, Redmond**. I have worked on the project "Distributed Machine Learning Training in Space".
 - (2021-06) Our paper "[Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)" is on arXiv.
