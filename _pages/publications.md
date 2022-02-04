@@ -17,6 +17,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
+## Pre-prints
+
+1. **Jinhyun So**, Kevin Hsieh, Behnaz Arzani, Shadi Noghabi, Salman Avestimehr, Ranveer Chandra, "FedSpace: An Efficient Federated Learning Framework at Satellites and Ground Stations," *arXiv preprint arXiv:2202.01267*.
+
+
+
 ## Journal Papers
 
 1.  **Jinhyun So**, Basak Guler, and Salman Avestimehr, "Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning," IEEE Journal on Selected Areas in Information Theory 2.1 (2021): 479-489. 
@@ -42,10 +48,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 \* : equal contribution
-
-
-
-## Pre-prints
 
 
 
