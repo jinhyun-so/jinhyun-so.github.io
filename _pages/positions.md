@@ -20,7 +20,7 @@ author_profile: true
 ### Research Assistant @ USC, Los Angeles, CA, USA
 
 - August 2017 - Present
-- Federated Learning, Privacy-preserving Machine Learning
+- Researched on Federated Learning, Privacy-preserving Machine Learning
 
 
 
@@ -45,11 +45,12 @@ author_profile: true
 
 ### Professional Services
 
-- **Program Committee**, FL-AAAI Workshop 2022 (Webpage: TBD)
-- **Program Committee**, International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction (FL-ICML 2021) (Webpage: [here](http://federated-learning.org/fl-icml-2021/))
+- **Program Committee**, Workshop on Federated Learning for Natural Language Processing [(FL4NLP) @ ACL 2022](https://fl4nlp.github.io/).
+- **Program Committee**, International Workshop on Trustable, Verifiable and Auditable Federated Learning in Conjunction with AAAI 2022 ([FL-AAAI-22](https://federated-learning.org/fl-aaai-2022/)) 
+- **Program Committee**, International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction ([FL-ICML 2021](http://federated-learning.org/fl-icml-2021/)) 
 - **Reviewer**, IEEE Journal of Selected Areas in Communications (JSAC) – 2021, 2022
 - **Reviewer**, IEEE International Symposium on Information Theory (ISIT) – 2021 
-- **Reviewer**, International Conference on Machine Learning (ICML) – 2021
+- **Reviewer**, International Conference on Machine Learning (ICML) – 2021, 2022
 - **Reviewer**, IEEE Transactions on Information Forensics and Security (TIFS) – 2020 
 - **Reviewer**, IEEE Communications Magazine - 2020
 
