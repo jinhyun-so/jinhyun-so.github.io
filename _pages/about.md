@@ -8,12 +8,16 @@ redirect_from:
   - about.html
 ---
 
-I am a PhD candidate in electrical and computer engineering at USC under the supervision of Professor [Salman Avestimehr](https://www.avestimehr.com/). I am interested in Federated Learning, Privacy-preserving Machine Learning, Large-scale Distributed Computing, and Information Theory.
+I am a Staff Research Engineer with the [Samsung Labs, Device Solution America (DSA), Samsung Semiconductor](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/soc/). My research interests lie broadly in federated learning, privacy-preserving machine learning, and on-device learning with application of mobile networked systems. Prior to joining Samsung Labs, I received Ph.D. degree from University of Southern California (USC), where I was fortunate to be advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). 
+
+
 
 
 
 ## Recent News
 
+- (2022-09) I joined Samsung Labs at San Diego as a Staff Research Engineer.
+- (2022-07) I successfully defended my PhD dissertation, "Coding Centric Approaches for Scalable, Efficient, and Privacy-preserving Machine Learning in Large-scale Distributed System"!!
 - (2022-02) Our paper "[FedSpace: An Efficient Federated Learning Framework at Satellites and Ground Stations](https://arxiv.org/abs/2202.01267)" is on arXiv.
 - (2022-01) Our paper "[LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning](https://arxiv.org/abs/2109.14236)" is accepted to [MLSys 2022 - Fifth Conference on Machine Learning and Systems](https://mlsys.org/).
 - (2022-01) Our paper "[Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)" is accepted to [International Workshop on Trustable, Verifiable and Auditable Federated Learning in Conjunction with AAAI 2022 (FL-AAAI-22)](https://federated-learning.org/fl-aaai-2022/).

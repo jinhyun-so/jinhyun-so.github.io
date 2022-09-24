@@ -8,6 +8,13 @@ author_profile: true
 
 
 
+### Staff Research Engineer @ Samsung Labs, San Diego, CA, USA
+
+- September 2022 - Present
+- Research on on-device learning, federated learning for 5G/6G cellular systems.
+
+
+
 ### PhD Research Intern @ Microsoft Research, Seattle, WA, USA
 
 - June 2021 - August 2021
@@ -19,8 +26,8 @@ author_profile: true
 
 ### Research Assistant @ USC, Los Angeles, CA, USA
 
-- August 2017 - Present
-- Researched on Federated Learning, Privacy-preserving Machine Learning
+- August 2017 - September 2022
+- Researched on Federated Learning, Privacy-preserving Machine Learning, Large-scale distributed computing
 
 
 
