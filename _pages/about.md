@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-I am a Staff Research Engineer with the [Samsung Labs, Device Solution America (DSA), Samsung Semiconductor](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/soc/). My research interests lie broadly in federated learning, privacy-preserving machine learning, and on-device learning with application of mobile networked systems. Prior to joining Samsung Labs, I received Ph.D. degree from University of Southern California (USC), where I was fortunate to be advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). 
+I am a Staff Research Engineer with the [Samsung Cellular & Multimedia Labs, Samsung Semiconductor Inc.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/soc/) where I am working on on-device learning/federated learning to improve 5G/6G cellular systems. My research interests lie broadly in federated learning, privacy-preserving machine learning, and on-device learning with application of mobile networked systems. Prior to joining Samsung Labs, I received Ph.D. degree from University of Southern California (USC), where I was fortunate to be advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). 
 
 
 
@@ -16,6 +16,7 @@ I am a Staff Research Engineer with the [Samsung Labs, Device Solution America (
 
 ## Recent News
 
+- (2022-10) Our paper "LightVeriFL: Lightweight and Verifiable Secure Federated Learning" is accepted to [Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)](https://federated-learning.org/fl-neurips-2022/) as an **oral presentation**!!
 - (2022-09) I joined Samsung Labs at San Diego as a Staff Research Engineer.
 - (2022-07) I successfully defended my PhD dissertation, "Coding Centric Approaches for Scalable, Efficient, and Privacy-preserving Machine Learning in Large-scale Distributed System"!!
 - (2022-02) Our paper "[FedSpace: An Efficient Federated Learning Framework at Satellites and Ground Stations](https://arxiv.org/abs/2202.01267)" is on arXiv.
