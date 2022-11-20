@@ -16,7 +16,8 @@ I am a Staff Research Engineer with the [Samsung Cellular & Multimedia Labs, Sam
 
 ## Recent News
 
-- (2022-10) Our paper "LightVeriFL: Lightweight and Verifiable Secure Federated Learning" is accepted to [Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)](https://federated-learning.org/fl-neurips-2022/) as an **oral presentation**!!
+- (2022-11) Our paper "[Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)" is accepted to AAAI Conference on  Artificial Intelligence [(**AAAI 2023**)](https://aaai.org/Conferences/AAAI-23/).
+- (2022-10) Our paper "LightVeriFL: Lightweight and Verifiable Secure Federated Learning" is accepted to [Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)](https://federated-learning.org/fl-neurips-2022/) as an oral presentation!!
 - (2022-09) I joined Samsung Labs at San Diego as a Staff Research Engineer.
 - (2022-07) I successfully defended my PhD dissertation, "Coding Centric Approaches for Scalable, Efficient, and Privacy-preserving Machine Learning in Large-scale Distributed System"!!
 - (2022-02) Our paper "[FedSpace: An Efficient Federated Learning Framework at Satellites and Ground Stations](https://arxiv.org/abs/2202.01267)" is on arXiv.
