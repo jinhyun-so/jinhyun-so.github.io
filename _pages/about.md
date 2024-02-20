@@ -8,14 +8,15 @@ redirect_from:
   - about.html
 ---
 
-I am a Staff Research Engineer with the [Samsung Cellular & Multimedia Labs, Samsung Semiconductor Inc.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/soc/) where I am working on on-device learning/federated learning to improve 5G/6G cellular systems. My research interests lie broadly in federated learning, privacy-preserving machine learning, and on-device learning with application of mobile networked systems. Prior to joining Samsung Labs, I received Ph.D. degree from University of Southern California (USC), where I was fortunate to be advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). 
+I am an assistant professor at the Department of Electrical Engineering and Computer Science [(EECS)](https://eecs.dgist.ac.kr/eng/index.php) at Daegu Gyeongbuk Institute of Science and Technology [(DGIST)](https://www.dgist.ac.kr/en/), South Korea, working as a faculty member of DGIST Distributed Artificial Intelligence Lab. My research interests lie broadly in distributed AI, federated and collaborative learning, privacy-preserving machine learning, and on-device learning.
 
-
+I received my B.S and M.S degrees in Electrical Engineering from [KAIST](https://www.kaist.ac.kr/en/), and received my Ph.D degree in Electrical and Computer Engineering from [USC](https://www.usc.edu/) where I was fortunate to be advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). I was a Ph.D Research Intern at Microsoft Research, Redmond in 2021, and a Staff Research Engineer with the [Samsung Cellular & Multimedia Labs, Samsung Semiconductor Inc.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/soc/) where I am working on on-device learning/federated learning to improve 5G/6G cellular systems. 
 
 
 
 ## Recent News
 
+- (2024-02) I joined the Electrical Engineering and Computer Science Department[(EECS)](https://eecs.dgist.ac.kr/eng/index.php) at [DGIST](https://www.dgist.ac.kr/en/) as an assitant professor (tenure-track)!! 
 - (2023-08) Our paper "[Universal Auto-encoder Framework for MIMO CSI Feedback]" is accepted to 2023 IEEE Global Communications Conference [(Globecom)](https://globecom2023.ieee-globecom.org/).
 - (2022-11) Our paper "[Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)" is accepted to AAAI Conference on  Artificial Intelligence [(**AAAI 2023**)](https://aaai.org/Conferences/AAAI-23/).
 - (2022-10) Our paper "LightVeriFL: Lightweight and Verifiable Secure Federated Learning" is accepted to [Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022)](https://federated-learning.org/fl-neurips-2022/) as an oral presentation!!

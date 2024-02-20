@@ -6,11 +6,14 @@ author_profile: true
 
 ---
 
+### Assistant Professor @ EECS department at DGIST, Daegu, South Korea
+- February 2024 - Present
+- Research on Distribued AI, Federated and Collaborative Learning, On-device Learning
 
 
 ### Staff Research Engineer @ Samsung Labs, San Diego, CA, USA
 
-- September 2022 - Present
+- September 2022 - January 2024
 - Research on on-device learning, federated learning for 5G/6G cellular systems.
 
 
