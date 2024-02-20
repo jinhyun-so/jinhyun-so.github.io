@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinhyun So"
 title_separator          : "-"
 name                     : &name "Jinhyun So"
-description              : &description "Staff Engineer @ Samsung"
+description              : &description "Assistant Professor @ DGIST"
 url                      : https://jinhyun-so.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinhyun-so/jinhyun-so.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jinhyun So"
   avatar           : "jinhyunso.jpg"
-  bio              : "Staff Engineer @ Samsung"
-  location         : "jinhyun.so @ samsung.com"
-  employer         : "Samsung Semiconductor Inc, USA"
+  bio              : "Assistant Professor @ DGIST"
+  location         : "jinhyun@dgist.ac.kr"
+  employer         : "DGIST, South Korea"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=taFevmQAAAAJ&hl=ko&oi=ao"
   researchgate     : "https://www.researchgate.net/profile/Jinhyun-So-2"
