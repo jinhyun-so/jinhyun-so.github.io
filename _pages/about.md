@@ -8,8 +8,7 @@ redirect_from:
   - about.html
 ---
 
-I am an assistant professor at the Department of Electrical Engineering and Computer Science [(EECS)](https://eecs.dgist.ac.kr/eng/index.php) at Daegu Gyeongbuk Institute of Science and Technology [(DGIST)](https://www.dgist.ac.kr/en/), South Korea, working as a faculty member of DGIST [Distributed Artificial Intelligence Lab](https://sites.google.com/view/
-distributed-ai-lab). My research interests lie broadly in distributed AI, federated and collaborative learning, privacy-preserving machine learning, and on-device learning.
+I am an assistant professor at the Department of Electrical Engineering and Computer Science [(EECS)](https://eecs.dgist.ac.kr/eng/index.php) at Daegu Gyeongbuk Institute of Science and Technology [(DGIST)](https://www.dgist.ac.kr/en/), South Korea, working as a faculty member of DGIST [Distributed Artificial Intelligence Lab](https://sites.google.com/view/distributed-ai-lab). My research interests lie broadly in distributed AI, federated and collaborative learning, privacy-preserving machine learning, and on-device learning.
 
 I received my B.S and M.S degrees in Electrical Engineering from [KAIST](https://www.kaist.ac.kr/en/), and received my Ph.D degree in Electrical and Computer Engineering from [USC](https://www.usc.edu/) where I was fortunate to be advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). I was a Ph.D Research Intern at Microsoft Research, Redmond in 2021, and a Staff Research Engineer with the [Samsung Cellular & Multimedia Labs, Samsung Semiconductor Inc.](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/soc/) where I worked on on-device learning/federated learning to improve 5G/6G cellular systems. 
 
